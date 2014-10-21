@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Datascience GitHub account for Coursera
+Data Science GitHub account for Coursera
